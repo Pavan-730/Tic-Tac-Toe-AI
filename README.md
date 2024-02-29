@@ -21,7 +21,7 @@
 <h3 align="center">	😳<b> Special Facility</b> 😳</h3>
 <h3 align="center">1. Machine Vs Human 👉  Machine get the first chance to play</h3>
 <h3 align="center">2. Human Vs Machine 👉  Human Get the first chance to play</h3>
-<h3 align="center"><b>Show 💘 by Starring this Repo</b></h3>
+<h3 align="center"><b>This is valluri pavan</b></h3>
 
 ---
 <h3 align="center">💡 <b>Important Links</b> 💡</h3>
