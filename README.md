@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Python_Version-3.7-brown.svg)
 ![](https://img.shields.io/badge/Status-Complete-green.svg)
 
-<h3 align="center"> ❤️ Hello i am pavan from matrusri engineering colege ❤️  </h3>
+<h3 align="center"> ❤️ Hello i am pavan from matrusri engineering college ❤️  </h3>
 
 ### <p align="center">  	😮 Introducing My New Game made in Python 	😮 </p>
 
