@@ -26,8 +26,6 @@
 ---
 <h3 align="center">💡 <b>Important Links</b> 💡</h3>
 
-- #### [Click Here to See the Project Video](https://youtu.be/eDpWs09ZGvI)
-
-- #### [Follow Me on LinkedIn to Get Project Updates](https://www.linkedin.com/in/samarpan-dasgupta-4aa1061b0/ "LCO")
+www.linkedin.com/in/pavan-kumar-6b98b821a
 
 <h2 align="center"><b>❤️ Thank You For Visiting 🙏, Have a Nice Day ❤️</b></h2>
